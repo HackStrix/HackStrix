@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <h1 align="center">
-  <b>Sankalp's Trips</b>
+  <b>Sankalp Narula</b>
 </h1>
-
-Heya! I'm Sankalp Narula, candidate of Bachelor's Computing and Financial Management at University of Waterloo
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+Heya! I'm Sankalp Narula, candidate of Bachelor's Computing and Financial Management at University of Waterloo
+
 
 <br>
 
@@ -60,7 +60,7 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username==HackStrix&custom_title=Sankalp's%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Sankalp's Graph](https://activity-graph.herokuapp.com/graph?username=HackStrix&custom_title=Sankalp's%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]()
 
 
 
