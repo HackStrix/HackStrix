@@ -4,7 +4,7 @@
   <b>Sankalp Narula</b>
 </h1>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-Heya! I'm Sankalp Narula, candidate of B. Computing and Financial Management at University of Waterloo
+Heya! I'm Sankalp Narula, candidate of B. Computing and Financial Management(B. CFM) at University of Waterloo
 
 
 <br>
