@@ -58,7 +58,11 @@ if __name__ == '__main__':
 
 [![Sankalp's Graph](https://activity-graph.herokuapp.com/graph?username=HackStrix&custom_title=Sankalp's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]()
 
-
+<div align = "center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackStrix&theme=dark&layout=compact" />
+  </p>
+</div>
 
 <!--
 **HackStrix/HackStrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
