@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software architect from India</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackstrix&label=Profile%20views&color=0e75b6&style=flat" alt="hackstrix" /> </p>
 
