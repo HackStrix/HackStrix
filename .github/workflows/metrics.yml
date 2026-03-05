@@ -5,7 +5,7 @@ on:
   # Allow manual trigger for testing
   workflow_dispatch:
   # Run on every push to the master/main branch
-  push: {branches: ["master", "main"]}
+  push: {branches: ["master"]}
 
 jobs:
   github-metrics:
@@ -27,7 +27,7 @@ jobs:
           # Styling
           config_display: large
           output_action: commit
-          committer_branch: main
+          committer_branch: master
           committer_message: "chore: update github metrics"
           
           # Add the specific plugins you care about (e.g., languages)
