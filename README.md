@@ -31,6 +31,5 @@ I don't just write code; I care deeply about how systems communicate, scale, and
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=HackStrix&show_icons=true&theme=dark&hide_border=true" alt="Sankalp's GitHub Stats" />
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackStrix&theme=dark&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="./github-metrics.svg" alt="Sankalp's GitHub Metrics" />
 </p>
